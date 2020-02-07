@@ -2,8 +2,8 @@
 import time
 
 
-# Python memory Eater program for eating 10mb of memory at a time. this gets Stopped when used with Cgroups setting the memory
-limit to 100mb
+# Python memory Eater program for eating 10mb of memory at a time. this gets Stopped when used with Cgroups 
+setting the memory limit to 100mb
 
 biglist=[]
 for i in xrange(1,10):
